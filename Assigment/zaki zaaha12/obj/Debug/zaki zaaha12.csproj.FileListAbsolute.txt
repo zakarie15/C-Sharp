@@ -1,0 +1,11 @@
+C:\Users\Hp\Downloads\zaki zaaha12\bin\Debug\zaki zaaha12.exe.config
+C:\Users\Hp\Downloads\zaki zaaha12\bin\Debug\zaki zaaha12.exe
+C:\Users\Hp\Downloads\zaki zaaha12\bin\Debug\zaki zaaha12.pdb
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki zaaha12.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki_zaaha12.Form1.resources
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki_zaaha12.Properties.Resources.resources
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki zaaha12.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki zaaha12.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki zaaha12.exe
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki zaaha12.pdb
+C:\Users\Hp\Downloads\zaki zaaha12\obj\Debug\zaki zaaha12.exe.config
